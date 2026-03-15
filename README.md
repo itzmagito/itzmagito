@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" />
+  <img src="/banner.png" />
 </p>
 
 # 👋 Hi, I'm Mathias Medina
