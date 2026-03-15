@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Mathias Medina
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Java;Building+Data+Projects" />
+  <img src="assets/banner.png" />
 </p>
 
----
+# 👋 Hi, I'm Mathias Medina
 
 ## 🚀 About Me
 
 🎓 Computer Science student from **Peru 🇵🇪**
-📊 Interested in **Data Analytics, Machine Learning and Business Intelligence**
-💻 Experience with **Python, SQL, Java and Git**
 🏫 Studying at **Pontificia Universidad Católica del Perú**
+📊 Interested in **Data Analytics, Machine Learning and Technology**
 
 ---
 
@@ -24,6 +21,24 @@
 
 ---
 
+## 💻 Programming Languages
+
+Python • Java • SQL • C • C++
+
+---
+
+## 🛠 Tools & Technologies
+
+Git • GitHub • Linux • VS Code • Power BI • Excel
+
+---
+
+## ⚡ Extras
+
+Data Analysis • Statistics • Algorithms • Object-Oriented Programming
+
+---
+
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmagito\&layout=compact\&theme=tokyonight)
@@ -32,10 +47,9 @@
 
 ## 🌱 Currently Learning
 
-📊 Advanced Data Analysis
-🤖 Machine Learning fundamentals
-🗄️ Advanced SQL queries
-📈 Data Visualization
+Machine Learning
+Advanced SQL
+Data Visualization
 
 ---
 
